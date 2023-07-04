@@ -1,0 +1,184 @@
+{
+    "searchinfo": {
+        "search": "Java"
+    },
+    "search": [
+        {
+            "id": "Q251",
+            "title": "Q251",
+            "pageid": 393,
+            "display": {
+                "label": {
+                    "value": "Java",
+                    "language": "en"
+                },
+                "description": {
+                    "value": "object-oriented programming language",
+                    "language": "en"
+                }
+            },
+            "repository": "wikidata",
+            "url": "//www.wikidata.org/wiki/Q251",
+            "concepturi": "http://www.wikidata.org/entity/Q251",
+            "label": "Java",
+            "description": "object-oriented programming language",
+            "match": {
+                "type": "label",
+                "language": "en",
+                "text": "Java"
+            }
+        },
+        {
+            "id": "Q3757",
+            "title": "Q3757",
+            "pageid": 4654,
+            "display": {
+                "label": {
+                    "value": "Java",
+                    "language": "en"
+                },
+                "description": {
+                    "value": "island of Indonesia, Southeast Asia",
+                    "language": "en"
+                }
+            },
+            "repository": "wikidata",
+            "url": "//www.wikidata.org/wiki/Q3757",
+            "concepturi": "http://www.wikidata.org/entity/Q3757",
+            "label": "Java",
+            "description": "island of Indonesia, Southeast Asia",
+            "match": {
+                "type": "label",
+                "language": "en",
+                "text": "Java"
+            }
+        },
+        {
+            "id": "Q1713118",
+            "title": "Q1713118",
+            "pageid": 1646292,
+            "display": {
+                "label": {
+                    "value": "Java platform",
+                    "language": "en"
+                },
+                "description": {
+                    "value": "set of several computer software products and specifications",
+                    "language": "en"
+                }
+            },
+            "repository": "wikidata",
+            "url": "//www.wikidata.org/wiki/Q1713118",
+            "concepturi": "http://www.wikidata.org/entity/Q1713118",
+            "label": "Java platform",
+            "description": "set of several computer software products and specifications",
+            "match": {
+                "type": "label",
+                "language": "en",
+                "text": "Java platform"
+            }
+        },
+        {
+            "id": "Q1025834",
+            "title": "Q1025834",
+            "pageid": 975148,
+            "display": {
+                "label": {
+                    "value": "Java",
+                    "language": "en"
+                },
+                "description": {
+                    "value": "settlement in South Ossetia",
+                    "language": "en"
+                }
+            },
+            "repository": "wikidata",
+            "url": "//www.wikidata.org/wiki/Q1025834",
+            "concepturi": "http://www.wikidata.org/entity/Q1025834",
+            "label": "Java",
+            "description": "settlement in South Ossetia",
+            "match": {
+                "type": "label",
+                "language": "en",
+                "text": "Java"
+            }
+        },
+        {
+            "id": "Q2089134",
+            "title": "Q2089134",
+            "pageid": 2016017,
+            "display": {
+                "label": {
+                    "value": "Java",
+                    "language": "en"
+                },
+                "description": {
+                    "value": "human settlement in Walworth County, South Dakota, United States of America",
+                    "language": "en"
+                }
+            },
+            "repository": "wikidata",
+            "url": "//www.wikidata.org/wiki/Q2089134",
+            "concepturi": "http://www.wikidata.org/entity/Q2089134",
+            "label": "Java",
+            "description": "human settlement in Walworth County, South Dakota, United States of America",
+            "match": {
+                "type": "label",
+                "language": "en",
+                "text": "Java"
+            }
+        },
+        {
+            "id": "Q61612399",
+            "title": "Q61612399",
+            "pageid": 61462015,
+            "display": {
+                "label": {
+                    "value": "Java",
+                    "language": "en"
+                },
+                "description": {
+                    "value": "genus of insects",
+                    "language": "en"
+                }
+            },
+            "repository": "wikidata",
+            "url": "//www.wikidata.org/wiki/Q61612399",
+            "concepturi": "http://www.wikidata.org/entity/Q61612399",
+            "label": "Java",
+            "description": "genus of insects",
+            "match": {
+                "type": "label",
+                "language": "en",
+                "text": "Java"
+            }
+        },
+        {
+            "id": "Q3708725",
+            "title": "Q3708725",
+            "pageid": 3534671,
+            "display": {
+                "label": {
+                    "value": "Java",
+                    "language": "en"
+                },
+                "description": {
+                    "value": "town in New York state",
+                    "language": "en"
+                }
+            },
+            "repository": "wikidata",
+            "url": "//www.wikidata.org/wiki/Q3708725",
+            "concepturi": "http://www.wikidata.org/entity/Q3708725",
+            "label": "Java",
+            "description": "town in New York state",
+            "match": {
+                "type": "label",
+                "language": "en",
+                "text": "Java"
+            }
+        }
+    ],
+    "search-continue": 7,
+    "success": 1
+}
